@@ -29,10 +29,6 @@ This project is about building a web application to show a weather forecast usin
 
 <br/>
 
-## Getting Started
-
-This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and Rest API. It is a web application and for running on your local environment you should follow these guidelines.
-
 <br/>
 
 
